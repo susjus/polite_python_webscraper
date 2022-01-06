@@ -1,0 +1,10 @@
+name: polite_python_webscraper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - beautifulsoup4
+  - requests
+  - pylint
+  - pip
+
