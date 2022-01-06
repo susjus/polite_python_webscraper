@@ -5,3 +5,4 @@ Collection of Python related code to build a web scraper for Andrew. Using this 
 ## Create conda env
 
 ```conda env create -f conda_env.yml```
+```conda activate polite_python_webscraper```
