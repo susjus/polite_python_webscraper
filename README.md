@@ -1,2 +1,3 @@
-# polite_python_webscraper
-Collection of Python related code to build a web scraper for Andrew
+# Polite Python Webscraper
+
+Collection of Python related code to build a web scraper for Andrew. Using this repo as a learning excercise for GitHub actions as well.
